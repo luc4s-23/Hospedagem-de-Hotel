@@ -1,0 +1,14 @@
+L:\VS-workspace\DIO\Dotnet\HospedagemHotel\bin\Debug\net9.0\HospedagemHotel.exe
+L:\VS-workspace\DIO\Dotnet\HospedagemHotel\bin\Debug\net9.0\HospedagemHotel.deps.json
+L:\VS-workspace\DIO\Dotnet\HospedagemHotel\bin\Debug\net9.0\HospedagemHotel.runtimeconfig.json
+L:\VS-workspace\DIO\Dotnet\HospedagemHotel\bin\Debug\net9.0\HospedagemHotel.dll
+L:\VS-workspace\DIO\Dotnet\HospedagemHotel\bin\Debug\net9.0\HospedagemHotel.pdb
+L:\VS-workspace\DIO\Dotnet\HospedagemHotel\obj\Debug\net9.0\HospedagemHotel.GeneratedMSBuildEditorConfig.editorconfig
+L:\VS-workspace\DIO\Dotnet\HospedagemHotel\obj\Debug\net9.0\HospedagemHotel.AssemblyInfoInputs.cache
+L:\VS-workspace\DIO\Dotnet\HospedagemHotel\obj\Debug\net9.0\HospedagemHotel.AssemblyInfo.cs
+L:\VS-workspace\DIO\Dotnet\HospedagemHotel\obj\Debug\net9.0\HospedagemHotel.csproj.CoreCompileInputs.cache
+L:\VS-workspace\DIO\Dotnet\HospedagemHotel\obj\Debug\net9.0\HospedagemHotel.dll
+L:\VS-workspace\DIO\Dotnet\HospedagemHotel\obj\Debug\net9.0\refint\HospedagemHotel.dll
+L:\VS-workspace\DIO\Dotnet\HospedagemHotel\obj\Debug\net9.0\HospedagemHotel.pdb
+L:\VS-workspace\DIO\Dotnet\HospedagemHotel\obj\Debug\net9.0\HospedagemHotel.genruntimeconfig.cache
+L:\VS-workspace\DIO\Dotnet\HospedagemHotel\obj\Debug\net9.0\ref\HospedagemHotel.dll
